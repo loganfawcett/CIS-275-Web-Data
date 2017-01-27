@@ -16,15 +16,7 @@ namespace WebApplication1.Controllers
       //Conditional operators
             ViewBag.Greeting = hour < 12 ? "Good Morning" : "Good Evening";
 
-      /*Normal way to do it
-            if (hour < 12)
-            {
-                ViewBag.Greeting = "Good Morning!";
-            }
-            else
-            {
-                ViewBag.Greeting = "Good Morning!";
-            }*/
+            
 
             return View();
         }
