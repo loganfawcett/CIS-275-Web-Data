@@ -1,0 +1,28 @@
+﻿@model Lab_1.Models.UserInfo
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>SignupForm</title>
+</head>
+<body>
+    <div> 
+        @using (Html.BeginForm())
+        {
+            <p>Your first name: @Html.TextBoxFor(x => x.FirstName)</p>
+            <p>Your last name: @Html.TextBoxFor(x => x.LastName)</p>
+            <p>Your phone number: @Html.TextBoxFor(x => x.Phone)</p>
+            <p>Year you were born: @Html.TextBoxFor(x => x.YearBorn)</p>
+            <p>Your email: @Html.TextBoxFor(x => x.Email)</p>
+
+            <input type="submit" value="Signup" />
+        }
+    </div>
+</body>
+</html>
