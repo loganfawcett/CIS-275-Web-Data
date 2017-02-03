@@ -11,7 +11,7 @@
     <link href="~/Content/bootstrap.css" rel="stylesheet" />
     <link href="~/Content/bootstrap-theme.css" rel="stylesheet" />
     <meta name="viewport" content="width=device-width" />
-    <link href="~/Content/Styles.css" rel="stylesheet" />
+    <link href="~/Styles/Styles.css" rel="stylesheet" type="text/css" />
     <title>RsvpForm</title>
 </head>
 <body>
@@ -20,6 +20,7 @@
         <div class="panel panel-body">
             @using (Html.BeginForm())
             {
+                @Html.ValidationSummary()
                 <div class="form-group">
                     <label>Your name:</label>
                     @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
