@@ -28,7 +28,14 @@ namespace Lab_1.Controllers
         [HttpPost]
         public ActionResult SignupForm(UserInfo userInfo)
         {
-            return View("Thanks", userInfo);
+            if (ModelState.IsValid)
+            {
+                return View("Thanks", userInfo);
+            }
+            else
+            {
+                return View();
+            }
         }
     }
 }

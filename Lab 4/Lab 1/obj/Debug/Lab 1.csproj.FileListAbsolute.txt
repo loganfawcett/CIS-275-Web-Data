@@ -1,0 +1,184 @@
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\ApplicationInsights.config
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\roslyn\csc.exe
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\roslyn\System.Collections.Immutable.dll
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\roslyn\System.Reflection.Metadata.dll
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\roslyn\vbc.exe
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\roslyn\VBCSCompiler.exe
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\roslyn\VBCSCompiler.exe.config
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\Lab 1.dll.config
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\Lab 1.dll
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\Lab 1.pdb
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\Microsoft.AI.DependencyCollector.dll
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\Microsoft.AI.Web.dll
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\Microsoft.AI.WindowsServer.dll
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\Microsoft.ApplicationInsights.dll
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\Microsoft.Web.Infrastructure.dll
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\System.Web.Helpers.dll
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\System.Web.Mvc.dll
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\System.Web.Razor.dll
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\System.Web.Webpages.Deployment.dll
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\System.Web.Webpages.dll
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\System.Web.Webpages.Razor.dll
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\Microsoft.AI.DependencyCollector.xml
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\Microsoft.AI.Web.xml
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\Microsoft.AI.WindowsServer.xml
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\Microsoft.ApplicationInsights.xml
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\System.Web.Razor.xml
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\System.Web.Webpages.xml
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\System.Web.Webpages.Deployment.xml
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\System.Web.Webpages.Razor.xml
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\System.Web.Helpers.xml
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\bin\System.Web.Mvc.xml
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\obj\Debug\Lab 1.csprojResolveAssemblyReference.cache
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\obj\Debug\Lab 1.dll
+D:\School\Web\CIS-275-Web-Data\Lab 1\Lab 1\obj\Debug\Lab 1.pdb
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\ApplicationInsights.config
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\roslyn\csc.exe
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\roslyn\vbc.exe
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\roslyn\VBCSCompiler.exe
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\Lab 1.dll.config
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\Lab 1.dll
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\Lab 1.pdb
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\Microsoft.AI.Web.dll
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\System.Web.Helpers.dll
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\System.Web.Mvc.dll
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\System.Web.Razor.dll
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\System.Web.Webpages.dll
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\System.Web.Webpages.Razor.dll
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\Microsoft.AI.Web.xml
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\System.Web.Razor.xml
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\System.Web.Webpages.xml
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\System.Web.Webpages.Razor.xml
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\System.Web.Helpers.xml
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\bin\System.Web.Mvc.xml
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\obj\Debug\Lab 1.csprojResolveAssemblyReference.cache
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\obj\Debug\Lab 1.dll
+C:\Users\logan.fawcett\Desktop\CIS-275-Web-Data-master\CIS-275-Web-Data-master\Lab 2\Lab 1\obj\Debug\Lab 1.pdb
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\ApplicationInsights.config
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\roslyn\csc.exe
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\roslyn\System.Collections.Immutable.dll
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\roslyn\System.Reflection.Metadata.dll
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\roslyn\vbc.exe
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\roslyn\VBCSCompiler.exe
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\roslyn\VBCSCompiler.exe.config
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\Lab 1.dll.config
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\Lab 1.dll
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\Lab 1.pdb
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\Microsoft.AI.Agent.Intercept.dll
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\Microsoft.AI.DependencyCollector.dll
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\Microsoft.AI.Web.dll
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\Microsoft.AI.WindowsServer.dll
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\Microsoft.ApplicationInsights.dll
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\Microsoft.Web.Infrastructure.dll
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\System.Web.Helpers.dll
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\System.Web.Mvc.dll
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\System.Web.Razor.dll
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\System.Web.Webpages.Deployment.dll
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\System.Web.Webpages.dll
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\System.Web.Webpages.Razor.dll
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\Microsoft.AI.DependencyCollector.xml
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\Microsoft.AI.Web.xml
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\Microsoft.AI.WindowsServer.xml
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\Microsoft.ApplicationInsights.xml
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\System.Web.Razor.xml
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\System.Web.Webpages.xml
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\System.Web.Webpages.Deployment.xml
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\System.Web.Webpages.Razor.xml
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\System.Web.Helpers.xml
+E:\College\Classes\Web Data\Lab 2\Lab 1\bin\System.Web.Mvc.xml
+E:\College\Classes\Web Data\Lab 2\Lab 1\obj\Debug\Lab 1.csprojResolveAssemblyReference.cache
+E:\College\Classes\Web Data\Lab 2\Lab 1\obj\Debug\Lab 1.dll
+E:\College\Classes\Web Data\Lab 2\Lab 1\obj\Debug\Lab 1.pdb
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\ApplicationInsights.config
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\roslyn\csc.exe
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\roslyn\vbc.exe
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\roslyn\VBCSCompiler.exe
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\Lab 1.dll.config
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\Lab 1.dll
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\Lab 1.pdb
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\Microsoft.AI.Web.dll
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\System.Web.Helpers.dll
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\System.Web.Mvc.dll
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\System.Web.Razor.dll
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\System.Web.Webpages.dll
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\System.Web.Webpages.Razor.dll
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\Microsoft.AI.Web.xml
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\System.Web.Razor.xml
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\System.Web.Webpages.xml
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\System.Web.Webpages.Razor.xml
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\System.Web.Helpers.xml
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\bin\System.Web.Mvc.xml
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\obj\Debug\Lab 1.csprojResolveAssemblyReference.cache
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\obj\Debug\Lab 1.dll
+C:\Users\svc-student\Desktop\CIS-275-Web-Data\Lab 4\Lab 1\obj\Debug\Lab 1.pdb

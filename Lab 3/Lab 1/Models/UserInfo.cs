@@ -16,7 +16,9 @@ namespace Lab_1.Models
         public string Phone { get; set; }
         [Required(ErrorMessage = "Please your birth year.")]
         public int YearBorn { get; set; }
-        [Required(ErrorMessage = "Please enter a valid email address.")]
+        [Required(ErrorMessage = "Please enter your email address.")]
+        [RegularExpression(".+\\@.+\\..+",
+            ErrorMessage = "Please enter a valid email address.")]
         public string Email { get; set; }
     }
 }
