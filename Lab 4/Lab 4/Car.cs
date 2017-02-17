@@ -18,14 +18,14 @@ namespace Lab_4
         private string _make;
         public string Make
         {
-            get { return _make; }
+            get { return Output(0); }
             set { _make = value; }
         }
 
         private string _model;
         public string Model
         {
-            get { return _model; }
+            get { return Output(1); }
             set { _model = value; }
         }
 
@@ -39,14 +39,14 @@ namespace Lab_4
         private string _engine;
         public string Engine
         {
-            get { return _engine; }
+            get { return Output(2); }
             set { _engine = value; }
         }
 
         private string _asperation;
         public string Asperation
         {
-            get { return _asperation; }
+            get { return Output(3); }
             set { _asperation = value; }
         }
 
@@ -72,6 +72,38 @@ namespace Lab_4
         public string Display
         {
             get { return this.Make + Space(0) + this.Model + Space(1) + this.Year + Space(2) + this.Engine + Space(3) + this.Asperation; }
+        }
+        public string Header
+        {
+            get { return "Make:\t\tModel:\t\tYear:\tEngine:\tAsperation:"; }
+        }
+
+        private string Output(int temp)
+        {
+            if (temp == 0)
+            {
+                if (_make.Length >= characters) return _make + "\t";
+                else return _make + "\t\t";
+            }
+            else if (temp == 1)
+            {
+                if (_model.Length >= characters) return _model + "\t";
+                else return "\t\t";
+            }
+            else if (temp == 2)
+            {
+                if (_engine.Length >= characters) return _engine + "\t";
+                else return "\t\t";
+            }
+            else if (temp == 3)
+            {
+                if (_asperation.Length >= characters) return _asperation + "\t";
+                else return "\t\t";
+            }
+            else
+            {
+                return "\t";
+            }
         }
     }
 }

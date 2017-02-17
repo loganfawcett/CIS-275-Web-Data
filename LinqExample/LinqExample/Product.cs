@@ -12,7 +12,7 @@ namespace LinqExample
         public int ProductID { get; set; }
         public string Name
         {
-            get { return ProductID + " + + name"; }
+            get { return ProductID + " " + name; }
             set { name = value; }
         }
         public string Description { get; set; }
