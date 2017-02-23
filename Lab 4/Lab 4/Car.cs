@@ -18,14 +18,14 @@ namespace Lab_4
         private string _make;
         public string Make
         {
-            get { return Output(0); }
+            get { return _make; }
             set { _make = value; }
         }
 
         private string _model;
         public string Model
         {
-            get { return Output(1); }
+            get { return _model; }
             set { _model = value; }
         }
 
@@ -39,14 +39,14 @@ namespace Lab_4
         private string _engine;
         public string Engine
         {
-            get { return Output(2); }
+            get { return _engine; }
             set { _engine = value; }
         }
 
         private string _asperation;
         public string Asperation
         {
-            get { return Output(3); }
+            get { return _asperation; }
             set { _asperation = value; }
         }
 

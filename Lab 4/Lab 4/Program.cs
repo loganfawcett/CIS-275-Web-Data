@@ -24,7 +24,7 @@ namespace Lab_4
             Console.WriteLine("All Cars:\n");
             foreach (Car element in myCars)
             {
-                Console.WriteLine("Make: {0}Model: {1}", element.Make, element.Model);
+                Console.WriteLine("Make: {0}{1}Model: {2}", element.Make, element.Space(0), element.Model);
                 //Console.WriteLine(element.Display);
             }
             Console.WriteLine(Line);
@@ -41,9 +41,10 @@ namespace Lab_4
             }
             Console.WriteLine(Line);
 
-     // Asperation
+            // Asperation
             var asperation =
                 from c in myCars
+                where c.Asperation != "N/A"
                 orderby c.Asperation
                 select c;
             Console.WriteLine("\nAsperation:\n" + myCars[0].Header);
@@ -53,16 +54,28 @@ namespace Lab_4
             }
             Console.WriteLine(Line);
 
+            // Average Year
+            double avgYear = myCars.Average(c => c.Year);
 
+            Console.WriteLine("Average Year:\n");
+            Console.WriteLine(avgYear);
+            Console.WriteLine(Line);
 
+            // Max Year
+            int maxYear = myCars.Max(c => c.Year);
 
-            /*  Old Output
-            Console.WriteLine(myCars[0].Header);
-            foreach (Car element in myCars)
-            {
-                Console.WriteLine(element.Display);
-            }
-            */
+            Console.WriteLine("Max Year:\n");
+            Console.WriteLine(maxYear);
+            Console.WriteLine(Line);
+
+            // Count
+            int count = (from c in myCars
+                        orderby c.Make
+                        select c).Count();
+
+            Console.WriteLine("Number of cars:\n");
+            Console.WriteLine(count);
+            Console.WriteLine(Line);
         }
     }
 }
