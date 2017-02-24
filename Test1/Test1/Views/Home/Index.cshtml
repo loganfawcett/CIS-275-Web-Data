@@ -1,0 +1,24 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap-theme.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Styles/Styles.css" rel="stylesheet" type="text/css" />
+    <title>Index</title>
+</head>
+<body>
+    <div class="panel panel-info text-center">
+        <H3>Welcome to the Sell-A-Car website!</H3>
+        <div class="btn btn-lg btn-info">
+            @Html.ActionLink("Click here to include your car.", "carForm")
+        </div>
+    </div>
+</body>
+</html>
