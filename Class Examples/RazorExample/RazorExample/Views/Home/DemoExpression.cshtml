@@ -1,0 +1,17 @@
+﻿@model RazorExample.Models.Product
+
+@{
+    ViewBag.Title = "DemoExpression";
+}
+
+<table>
+    <thread>
+        <tr><th>Property</th><th>Value</th></tr>
+    </thread>
+    <tbody>
+        <tr><td>Name</td><td>@Model.Name</td></tr>
+        <tr><td>Price</td><td>@Model.Price</td></tr>
+
+        <tr><td>Stock Level</td><td>@ViewBag.ProductCount</td></tr>
+    </tbody>
+</table>
