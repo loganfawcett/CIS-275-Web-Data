@@ -9,8 +9,6 @@ namespace Lab6.Controllers
 {
     public class HomeController : Controller
     {
-
-
         IPriceCalculator myPrice;
         public HomeController(IPriceCalculator pricePassedIn)
         {
