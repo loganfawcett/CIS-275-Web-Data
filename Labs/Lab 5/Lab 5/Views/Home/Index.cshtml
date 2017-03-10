@@ -1,0 +1,36 @@
+﻿@using Lab_5.Models
+@model Car[]
+
+@{
+    ViewBag.Title = "Car Name";
+    var modelOrdered = Model.OrderByDescending(m => m.Price);
+}
+
+@if (Model.Length > 0)
+{
+    <table>
+        <thread>
+            <tr>
+                <th class="text-center">Car</th>
+                <th class="text-center">Price</th>
+                <th class="text-center">Cylinders</th>
+                <th class="text-center">Year</th>
+            </tr>
+        </thread>
+        <tbody class="table info">
+            @foreach (Car c in modelOrdered)
+            {
+                <tr>
+                    <td class="text-center col-md-6">@c.Name</td>
+                    <td class="text-right col-md-6">@string.Format("{0:c}",c.Price)</td>
+                    <td class="text-center col-md-6">@c.Cylinders</td>
+                    <td class="text-center col-md-6">@c.Year</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <h2>No Product data</h2>
+}
