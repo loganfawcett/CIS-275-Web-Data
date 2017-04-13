@@ -1,0 +1,35 @@
+﻿@using StarterFileExam2.Models
+@model IEnumerable<Car>
+@{
+    ViewBag.Title = "View";
+    Layout = "~/Views/_LayoutPage1.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>InventoryList</title>
+</head>
+<body>
+    <div>
+        @foreach (var c in Model)
+        {
+
+            <div class="well">
+                <h3>
+                    <strong>@c.Year @c.CarMake @c.CarModel - @c.Color</strong>
+                    <span class="pull-right btn btn-primary">
+                        @c.Price.ToString("c0")
+                    </span>
+                </h3>
+                <span class="lead"> @c.Miles.ToString("n0") Miles</span>
+            </div>
+
+
+
+        }
+    </div>
+</body>
+</html>
