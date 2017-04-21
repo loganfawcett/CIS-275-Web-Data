@@ -1,0 +1,26 @@
+﻿@using CarsForSale.Models;
+@model IEnumerable<Car>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>InventoryList</title>
+</head>
+<body>
+    <table>
+        @foreach (Car c in Model)
+            {
+            <tr>
+                <td>@c.CarMake</td>
+                <td>@c.CarModel</td>
+                <td>@c.Year</td>
+                <td>@c.Miles</td>
+                <td>@c.Color</td>
+                <td>@c.Price</td>
+            </tr>
+        }
+    </table>
+</body>
+</html>
