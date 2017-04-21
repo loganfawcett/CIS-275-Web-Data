@@ -9,7 +9,7 @@ namespace CarsForSale.Models.Concrete
 {
     public class EFCarRepository : ICarRepository
     {
-        EFDBContext context = new EFDBContext();
+        public EFDbContext context = new EFDbContext();
         public IEnumerable<Car> Cars
         {
             get { return context.Cars; }

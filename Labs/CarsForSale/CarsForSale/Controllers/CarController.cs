@@ -4,15 +4,16 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using CarsForSale.Models.Abstract;
+using CarsForSale.Models;
 
 namespace CarsForSale.Controllers
 {
     public class CarController : Controller
     {
         private ICarRepository repo;
-        public ActionResult Index()
+        public CarController(ICarRepository theseCars)
         {
-            return View();
+            this.repo = theseCars;
         }
 
         public ActionResult InventoryList()

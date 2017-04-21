@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CarsForSale.Models.Abstract
 {
-    interface ICarRepository
+    public interface ICarRepository
     {
         IEnumerable<Car> Cars { get; }
     }

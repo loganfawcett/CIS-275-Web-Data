@@ -25,7 +25,7 @@ namespace CarsForSale.Infrastructure
         }
         private void AddBindings()
         {
-            kernel.Bind<EFCarRepository>().To<ICarRepository>();
+            kernel.Bind<ICarRepository>().To<EFCarRepository>();
         }
     }
 }
