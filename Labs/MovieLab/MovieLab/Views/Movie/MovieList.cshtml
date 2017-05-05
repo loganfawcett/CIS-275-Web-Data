@@ -1,0 +1,32 @@
+﻿@using MovieLab.Models
+@using MovieLab.HtmlHelpers
+@model MovieLab.Models.MoviesListViewModel
+
+@{
+    ViewBag.Title = "MovieList";
+}
+
+<h2>MovieList</h2>
+@foreach (var m in Model.Movies)
+{
+    <div class="well well-lg">
+        <div class="row">
+            <div class="col">
+                <h2>@m.Name</h2>
+            </div>
+            <div class="col">
+                <div class="btn btn-primary">@m.Rating</div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                @m.Genre
+            </div>
+        </div>
+
+    </div>
+}
+
+<div class="pull-right">
+    @Html.PageLinks(Model.PagingInfo, x => Url.Action("MovieList", new { page = x }))
+</div>

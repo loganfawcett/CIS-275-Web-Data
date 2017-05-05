@@ -1,11 +1,26 @@
 ﻿@model Lab_10.Models.Genre
-
 @{
     ViewBag.Title = "Details";
 }
-
 <h2>Details</h2>
-
+<!--<div>
+    <h4>Genre</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+    </dl>
+    @foreach (var item in Model.Movies)
+    {
+        <dl class="dl-horizontal">
+            <dd>@item.Name</dd>
+        </dl>
+    }
+</div>-->
 <div>
     <h4>Genre</h4>
     <hr />
@@ -13,11 +28,18 @@
         <dt>
             @Html.DisplayNameFor(model => model.Name)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Name)
+            <table class="table">
+                <th>Movies In This Genre</th>
+                @foreach (var item in Model.Movies)
+                {
+                    <tr>
+                        <td>@item.Name</td>
+                    </tr>
+                }
+            </table>
         </dd>
-
     </dl>
 </div>
 <p>

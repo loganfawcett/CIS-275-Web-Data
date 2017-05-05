@@ -13,11 +13,18 @@
         <dt>
             @Html.DisplayNameFor(model => model.Name)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Name)
+            <table class="table">
+                <th>Movies In This Genre</th>
+                @foreach (var item in Model.Movies)
+                {
+                    <tr>
+                        <td>@item.Name</td>
+                    </tr>
+                }
+            </table>
         </dd>
-
     </dl>
 </div>
 <p>
